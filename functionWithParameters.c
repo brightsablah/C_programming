@@ -15,7 +15,7 @@ void greeting(name)
 int main(void)
 {
   
-        greeting();
+        greeting(Bobby);
 
 return (0);
 
