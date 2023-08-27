@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void greeting(name)
+void greeting(char name[])
 {
         printf("Hello to you %s\n", name);
 }
@@ -15,8 +15,10 @@ void greeting(name)
 int main(void)
 {
   
-        greeting(Bobby);
-
+        greeting("Bobby");
+        greeting("The Boy");
+        printf("all functions have been executed\n");
+        
 return (0);
 
 }
