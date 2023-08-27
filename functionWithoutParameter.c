@@ -7,7 +7,7 @@ void greeting()
 
 /**
 * main - Entry point
-* Description:
+* Description: The greeting function returns nothing.
 *
 * Return: Always 0 (Success)
 */
