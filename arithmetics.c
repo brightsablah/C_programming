@@ -18,7 +18,7 @@ int arithmetics(int num1, int num2)
 
 /**
 * main - Entry point
-* Description: function accepts two integers and returns simple arithmetic results
+* Description:
 * Return: Always 0 (Success)
 */
 
