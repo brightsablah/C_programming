@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* @arithmetics: computes simple math operations on two integers. */
+/**
+* arithmetics - computes simple math operations on two integers.
+* Description:
+* Return: returns void
+*/
 int arithmetics(int num1, int num2)
 {
 	int sum = num1 + num2;
