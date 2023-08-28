@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* @arithmetics: computes simple math operations on two integers. */
 int arithmetics(int num1, int num2)
 {
 	int sum = num1 + num2;
@@ -18,7 +19,6 @@ int arithmetics(int num1, int num2)
 /**
 * main - Entry point
 * Description: function accepts two integers and returns simple arithmetic results
-* @arithmetics : computes simple math operations on two integers.
 * Return: Always 0 (Success)
 */
 
