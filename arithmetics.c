@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
-* arithmetics - computes simple math operations on two integers.
+* arithmetics - computes simple math operations on two integers
+* @num1: first number
+* @num2: second number 
 * Description:
 * Return: returns void
 */
