@@ -15,6 +15,8 @@ int arithmetics(int num1, int num2)
 	int difference = num1 - num2;
 	int modulus = num1 % num2;
 
+	printf("You entered %d and %d. Arithmetic solution is below\n", num1 num2);
+	printf("----------------------------------------------------------");
 	printf("sum = %d\n", sum);
 	printf("dividend = %d\n", dividend);
 	printf("product = %d\n", product);
