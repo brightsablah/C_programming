@@ -18,8 +18,8 @@ int arithmetics(int num1, int num2)
 	printf("sum = %d\n", sum);
 	printf("dividend = %d\n", dividend);
 	printf("product = %d\n", product);
-	printf("difference = %d\n", difference;
-	printf("modulus = %d\n", modulus;
+	printf("difference = %d\n", difference);
+	printf("modulus = %d\n", modulus);
 }
 
 /**
