@@ -1,0 +1,16 @@
+STRINGS FUNCTIONS IN C-PROGRAMMING
+
+strlwr - converts a string to lowercase
+strupr - converts a string to uppercase
+strcat - appends string2 to end of string1
+strncat - appends n characters from string2 to string1
+strcpy - copy string2 to string1
+strncpy - copy n characters from string2 to string1
+strset - set all characters of a string to a given character
+strnset - set first n characters of a string to a given character
+strrev - reverses a string
+strlen - returns string length as int
+strcmp - string compare all characters
+strncmp - string compare n characters
+strcmpi - string compare all characters (ignore case)
+strnicmp -string compare n characters (ignore case)
