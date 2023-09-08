@@ -11,14 +11,14 @@ int main(void)
 {
 
 	int count;
-	float mark[5];
-	float avg, total;
+	double mark[5];
+	double avg, total;
 
 	printf("Enter 5 marks: ");
 
 	for (count = 0; count < 5; count++)
 	{
-		scanf("%f", &mark[count]);
+		scanf("%lf", &mark[count]);
 	}
 
 	for (count = 0; count < 5; count++)
@@ -28,7 +28,7 @@ int main(void)
 
 	avg = total / 5;
 
-	printf("%f\n", avg);
+	printf("%lf\n", avg);
 
 return (0);
 
