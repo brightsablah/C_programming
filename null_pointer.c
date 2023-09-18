@@ -14,8 +14,8 @@ int main(void)
 	int *ptr2;
 
 /* Print address stored in both pointers */
-	printf("%x\n", ptr1);
-	printf("%x\n", ptr2);
+	printf("address at ptr1 is: %ls\n", ptr1);
+	printf("address at ptr2 is: %ls\n", ptr2);
 
 return (0);
 
