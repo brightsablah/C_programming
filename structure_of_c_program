@@ -1,0 +1,19 @@
+STRUCTURE OF C PROGRAM
+
+- Documentation Section
+	Authur, Date and Description of the Program
+
+- Link Section (*)
+	Header files inclusion
+
+- Definition Section
+	define all symbolic constants
+
+- Global Declaration Section
+	you may declare global variables here
+
+- Main Section (*)
+	Control function of any C program. Compulsory!
+
+- Sub Program Section
+	where you write all user defined functions 
