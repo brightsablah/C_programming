@@ -1,0 +1,18 @@
+Data types tells how much storage/memory should be allocated to a variable.
+
+-Primary Data type
+	int
+	float
+	char
+	double
+	void
+
+-Derived Data types
+	Array
+	Structure
+	Union
+	Pointers
+
+-Userdefined Data types
+	Typedef
+	Enumerated Data Type
