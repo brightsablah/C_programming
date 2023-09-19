@@ -1,0 +1,19 @@
+EXECUTION PROCESS OF A C PROGRAM
+
+starts with a source code
+
+the preprocessor replaces all lines that start with '#' with the 
+declaration of the functions that are included in these lines. 
+it also expands the macro values. output from the preprocessor 
+is called expanded source code which is saved with the extension '.i'
+
+the compiler generates assembly code from the expanded source code
+
+the assembler converts assembly code into object file. extention '.obj / .o'
+
+the linker will link the object code to system libraries. 
+if there are multiple object codes . 
+it links all of the m together as one.
+
+the executable file '.exe' is now ready. before execution, the loader loadsthe program from hard disk to RAM of the machine, then execution is done.
+
