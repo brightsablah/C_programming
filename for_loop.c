@@ -10,10 +10,11 @@
 int main(void)
 {
 	int i = 0;
+	int j = 5;
 
-	for (; i < 5; i++)
+	for (; i < 5 && j > 1; i++, j--)
 	{
-		printf("%d\n", i);
+		printf("i = %d j = %d\n", i, j);
 	}
 
 return (0);
