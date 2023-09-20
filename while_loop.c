@@ -27,7 +27,7 @@ int main(void)
 	printf("End of program");
 
 
-	int i = 0;
+	i = 0;
 
 	while (i++)
 	{
@@ -45,7 +45,7 @@ int main(void)
 	printf("End of program");
 
 
-	char = 'a';
+	ch = 'a';
 
 	while (ch)
 	{
@@ -54,8 +54,8 @@ int main(void)
 	printf("End of program");
 
 
-	int i = 1;
-	char ch = 'a';
+	i = 1;
+	ch = 'a';
 
 	while (ch < 127 && i == 1)
 	{
