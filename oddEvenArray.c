@@ -2,7 +2,8 @@
 
 /**
 * main - Entry point
-* Description: initializes array at runtime and finds average of values
+* Description: initializes array at runtime and
+* finds whether values are even or odd
 *
 * Return: Always 0 (Success)
 */
