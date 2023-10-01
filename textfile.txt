@@ -1,0 +1,4 @@
+Hello World. C Programming is not easy to learn but i have decided to do hard things.
+So will I.
+So Help me GOD.
+TEXT FILE used to practice File I/O Handling
