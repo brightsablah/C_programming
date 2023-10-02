@@ -4,6 +4,8 @@
 void main()
 {
 	FILE *fp = NULL;
+	int line = 1;
+	char ch;
 
 	fp = fopen("textfile.txt","r+");
 	if (fp == NULL)
@@ -12,7 +14,15 @@ void main()
 		exit(1);
 	}
 
-	fputs("trial", fp);
-	fputc('q', fp);
+	while ((ch = (fgetc(fp))) != EOF)
+	{
+		if (ch == '\n')
+		{
+			line++;
+		}
+	}
+
+	printf("File has %d number of lines\n", line);
+
 	fclose(fp);
 }
