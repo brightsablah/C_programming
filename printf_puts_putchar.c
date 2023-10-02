@@ -2,7 +2,7 @@
 
 /**
 * main - Entry point
-* Description: printf vs puts vs printchar
+* Description: printf vs puts vs printchar- code practice
 *
 * Return: Always 0 (Success)
 */
