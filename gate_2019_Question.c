@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 
 int jumble(int x, int y)
