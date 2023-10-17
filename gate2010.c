@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 
 void f(int *p, int *q)
