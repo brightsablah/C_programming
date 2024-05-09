@@ -7,4 +7,3 @@ betty function documentation
 (* section header: Section description)*
 * Return: Description of the returned value
 */
-
